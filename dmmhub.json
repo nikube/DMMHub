@@ -1,0 +1,14 @@
+{
+  "schema_version": "1",
+  "name": "DMMHub — Community Directory",
+  "description": "A curated list of DMM-compatible Dolibarr modules.",
+  "url": "https://github.com/nikube/DMMHub",
+  "modules": [
+    {
+      "repo": "nikube/DMM",
+      "public": true,
+      "name": "DoliModuleManager",
+      "description": "Module manager with GitHub integration for Dolibarr"
+    }
+  ]
+}
