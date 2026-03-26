@@ -9,6 +9,24 @@
       "public": true,
       "name": "DoliModuleManager",
       "description": "Module manager with GitHub integration for Dolibarr"
+    },
+    {
+      "repo": "nikube/sqlmagic",
+      "public": true,
+      "name": "SQL Magic",
+      "description": "Parameterized SQL queries in self-service for Dolibarr"
+    },
+    {
+      "repo": "nikube/adminer4dolibarr",
+      "public": true,
+      "name": "Adminer for Dolibarr",
+      "description": "Adminer database management tool integrated into Dolibarr"
+    },
+    {
+      "repo": "nikube/filemanager4dolibarr",
+      "public": true,
+      "name": "File Manager for Dolibarr",
+      "description": "Integrated web file manager for Dolibarr"
     }
   ]
 }
