@@ -27,6 +27,12 @@
       "public": true,
       "name": "File Manager for Dolibarr",
       "description": "Integrated web file manager for Dolibarr"
+    },
+    {
+      "repo": "nikube/objectbanner",
+      "public": true,
+      "name": "Object Banner",
+      "description": "Floating navigation banner linking documents on Dolibarr cards"
     }
   ],
   "hubs": [
