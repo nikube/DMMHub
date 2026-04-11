@@ -33,6 +33,30 @@
       "public": true,
       "name": "Object Banner",
       "description": "Floating navigation banner linking documents on Dolibarr cards"
+    },
+    {
+      "repo": "Dolicraft/DolicraftDashboard",
+      "public": true,
+      "name": "Dolicraft Dashboard",
+      "description": "Advanced dashboard for Dolibarr with 19 widgets, drag-and-drop, KPI, and charts",
+      "url": "https://github.com/Dolicraft/DolicraftDashboard",
+      "trust": "community"
+    },
+    {
+      "repo": "Dolicraft/DolicraftS3",
+      "public": true,
+      "name": "Dolicraft S3",
+      "description": "Connect Dolibarr to any S3-compatible cloud storage (AWS, OVH, Scaleway, Wasabi, MinIO, ...)",
+      "url": "https://github.com/Dolicraft/DolicraftS3",
+      "trust": "community"
+    },
+    {
+      "repo": "Dolicraft/Dolicraftupgrade",
+      "public": true,
+      "name": "Dolicraft Upgrade",
+      "description": "One-click Dolibarr core upgrade with auto-backup, 10 pre-checks, and rollback",
+      "url": "https://github.com/Dolicraft/Dolicraftupgrade",
+      "trust": "community"
     }
   ],
   "hubs": [
