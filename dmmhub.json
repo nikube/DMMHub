@@ -105,6 +105,102 @@
       "description": "Rule-based discount management across products and customers",
       "url": "https://github.com/john-botella/dolibarr_module_discountrules",
       "trust": "community"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/stancerdolicloud",
+      "public": true,
+      "name": "Stancer (DoliCloud)",
+      "description": "Online card payment page via the Stancer API, on the native Dolibarr payment flow",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/concatpdf",
+      "public": true,
+      "name": "Concat PDF",
+      "description": "Append PDFs found in a directory to generated proposals, orders and invoices",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/selectbank",
+      "public": true,
+      "name": "Select Bank",
+      "description": "Choose which bank account is printed on generated PDF documents",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/zipautofillfr",
+      "public": true,
+      "name": "Zip Autofill FR",
+      "description": "Autocomplete zip codes and towns for France and Belgium",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/tvacerfa",
+      "public": true,
+      "name": "TVA Cerfa",
+      "description": "Generate French VAT Cerfa documents",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/billedonorders",
+      "public": true,
+      "name": "Billed on Orders",
+      "description": "Add total invoiced and remaining-to-invoice columns to the order list",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/numberwords",
+      "public": true,
+      "name": "Number to Words",
+      "description": "Convert amounts and numbers to their full-text form",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/externalbackup",
+      "public": true,
+      "name": "External Backup",
+      "description": "Send Dolibarr backups to external cloud storage services",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/memcached",
+      "public": true,
+      "name": "Memcached",
+      "description": "Use a memcached server to speed up Dolibarr",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/openstreetmap",
+      "public": true,
+      "name": "OpenStreetMap",
+      "description": "Integrate OpenStreetMap maps into Dolibarr",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/numberingpack",
+      "public": true,
+      "name": "Numbering Pack",
+      "description": "Additional third-party numbering models",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "https://github.com/DoliCloud/DoliMods/tree/master/htdocs/mywidgets",
+      "public": true,
+      "name": "My Widgets",
+      "description": "Home dashboard widgets with editable HTML content",
+      "trust": "community",
+      "url": "https://github.com/DoliCloud/DoliMods"
     }
   ],
   "hubs": [
