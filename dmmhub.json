@@ -35,6 +35,12 @@
       "description": "Floating navigation banner linking documents on Dolibarr cards"
     },
     {
+      "repo": "nikube/antidoubleclick",
+      "public": true,
+      "name": "AntiDoubleClick",
+      "description": "Prevents duplicate records created by a double click on a submit button or an action link"
+    },
+    {
       "repo": "Dolicraft/DolicraftDashboard",
       "public": true,
       "name": "Dolicraft Dashboard",
