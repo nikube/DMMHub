@@ -41,6 +41,12 @@
       "description": "Prevents duplicate records created by a double click on a submit button or an action link"
     },
     {
+      "repo": "nikube/multifilter",
+      "public": true,
+      "name": "MultiFilter",
+      "description": "Multiselect and \"Not defined\" search filters on list pages (payment terms, payment modes, sellist/select extrafields)"
+    },
+    {
       "repo": "Dolicraft/DolicraftDashboard",
       "public": true,
       "name": "Dolicraft Dashboard",
