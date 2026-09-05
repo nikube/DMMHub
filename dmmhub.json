@@ -71,30 +71,6 @@
       "trust": "community"
     },
     {
-      "repo": "hello-lemon/module-dolibarr-lemonfacturx",
-      "public": true,
-      "name": "LemonFacturX",
-      "description": "Factur-X EN16931 e-invoicing: generates PDF/A-3 invoices with embedded CrossIndustryInvoice XML",
-      "url": "https://github.com/hello-lemon/module-dolibarr-lemonfacturx",
-      "trust": "community"
-    },
-    {
-      "repo": "hello-lemon/module-dolibarr-lemonsuperpdp",
-      "public": true,
-      "name": "LemonSuperPDP",
-      "description": "Transmits invoices through the SUPER PDP approved e-invoicing access point",
-      "url": "https://github.com/hello-lemon/module-dolibarr-lemonsuperpdp",
-      "trust": "community"
-    },
-    {
-      "repo": "hello-lemon/module-dolibarr-lemoncrm",
-      "public": true,
-      "name": "LemonCRM",
-      "description": "CRM module to track client interactions in Dolibarr",
-      "url": "https://github.com/hello-lemon/module-dolibarr-lemoncrm",
-      "trust": "community"
-    },
-    {
       "repo": "ATM-Consulting/dolibarr_module_scrumboard",
       "public": true,
       "name": "ScrumBoard",
@@ -216,6 +192,7 @@
     }
   ],
   "hubs": [
-    "https://api.github.com/repos/nikube/DMMHubPrivate/contents/dmmhub.json"
+    "https://api.github.com/repos/nikube/DMMHubPrivate/contents/dmmhub.json",
+    "https://raw.githubusercontent.com/hello-lemon/modules-dolibarr-hub-dmm/main/dmmhub.json"
   ]
 }
