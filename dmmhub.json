@@ -225,6 +225,12 @@
       "description": "Home dashboard widgets with editable HTML content",
       "trust": "community",
       "url": "https://github.com/DoliCloud/DoliMods"
+    },
+    {
+      "repo": "nikube/portalreturn",
+      "public": false,
+      "name": "PortalReturn",
+      "description": "Order returns from the customer web portal: the customer drops their return form (PDF or spreadsheet) in a Returns tab, a draft credit note is created with the file attached and lines pre-filled from the EAN codes; bulk portal accounts with credentials e-mailed"
     }
   ],
   "hubs": [
