@@ -53,6 +53,12 @@
       "description": "Drag & drop installer for custom PDF document models (pdf_*.modules.php): auto-detects the target object, validates the class/file name rule and deploys the model into the native document model lists"
     },
     {
+      "repo": "nikube/easydrop",
+      "public": true,
+      "name": "EasyDrop",
+      "description": "Drag & drop on every file upload field (click to browse, drop to send), and the files of linked objects (order, proposal, third party, project) with download links on Linked files tabs"
+    },
+    {
       "repo": "nikube/multifilter",
       "public": true,
       "name": "MultiFilter",
